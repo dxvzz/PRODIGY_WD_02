@@ -107,4 +107,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*This `README.md` file was generated with the help of tools and best practices for creating effective documentation.*
