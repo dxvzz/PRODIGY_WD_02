@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a567ce2-29e6-4524-95a5-eae3e1e0380b" alt="Project Logo" width="150">
+  <img src="https://github.com/user-attachments/assets/7a567ce2-29e6-4524-95a5-eae3e1e0380b" alt="Project Logo" width="300">
 </p>
 
 <p align="center">
