@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/image.png" alt="Project Logo" width="150">
+  <img src="https://github.com/user-attachments/assets/7a567ce2-29e6-4524-95a5-eae3e1e0380b" alt="Project Logo" width="150">
 </p>
 
 <p align="center">
@@ -127,5 +127,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  <strong>Made with ❤️ by [Your Name]</strong>
+  <strong>Made with ❤️ by Devdatta Mudliar</strong>
 </p>
